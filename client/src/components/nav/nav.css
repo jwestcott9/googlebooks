@@ -1,0 +1,18 @@
+.my-nav-bar {
+    font-family: "Times New Roman", Times, serif;
+    background-color:   rgb(109, 109, 233)
+    ;
+    color:white;
+}
+
+.nav-link-host {
+    padding:10px;
+}
+
+#my-link {
+    color:lightgrey;
+}
+
+/* .bold-link {
+    font-weight: 800;
+} */
