@@ -13,15 +13,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jvalentine1/react-google-books.git"
+    "url": "git+https://github.com/jwestcott9/googlebooks.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jvalentine1/react-google-books/issues"
+    "url": "https://github.com/jwestcott9/googlebooks/issues"
   },
-  "homepage": "https://github.com/jvalentine1/react-google-books#readme",
+  "homepage": "https://github.com/jwestcott9/googlebooks",
   "dependencies": {
     "axios": "^0.19.0",
     "concurrently": "^4.1.1",
