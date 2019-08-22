@@ -9,8 +9,6 @@
     "client": "cd client && npm run start",
     "install": "cd client && npm install",
     "build": "cd client && npm run build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "heroku-postbuild": "npm run build"
   },
   "repository": {
@@ -23,15 +21,13 @@
   "bugs": {
     "url": "https://github.com/jwestcott9/googlebooks/issues"
   },
-  "homepage": "https://github.com/jwestcott9/googlebooks",
+  "homepage": "https://github.com/jwestcott9/googlebookss#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "concurrently": "^4.1.1",
     "express": "^4.17.1",
-    "gh-pages": "^2.1.1",
     "mongoose": "^5.6.9",
-    "path": "^0.12.7",
-    "react": "^16.9.0",
-    "reactstrap": "^8.0.1"
+    "path": "^0.12.7"
   }
 }
+
